@@ -1,3 +1,8 @@
+# 数独解決プログラム（Sudoku solving program）
+# BOBURKHONOV ASLIDDIN
+# https://github.com/asliddinxanov/Sudoku-Solver_Python
+# Generate_sudoku model
+
 import random
 
 def print_board(board):
