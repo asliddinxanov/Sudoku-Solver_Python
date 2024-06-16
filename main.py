@@ -1,3 +1,7 @@
+# 数独解決プログラム（Sudoku solving program）
+# BOBURKHONOV ASLIDDIN
+# https://github.com/asliddinxanov/Sudoku-Solver_Python
+
 from solve_sudoku import solve_existing_sudoku
 from generate_sudoku import generate_and_solve_sudoku
 
