@@ -1,3 +1,8 @@
+# 数独解決プログラム（Sudoku solving program）
+# BOBURKHONOV ASLIDDIN
+# https://github.com/asliddinxanov/Sudoku-Solver_Python
+# Solve_sudoku model
+
 def print_board(board):
     for row in board:
         print(" ".join(str(num) for num in row))
